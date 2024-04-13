@@ -4,12 +4,12 @@
 }
 
 .cabeçalho{
-    background-color: #ced8e9;
+    background-color: #546f9e;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 5px 0;
+    padding: 4px 0;
 }
 
 .cabeçalho-imagem{
@@ -21,4 +21,21 @@
     font-size: 25px ;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, 'Arial Narrow', Arial, sans-serif
 
+}
+.escola-imagem{
+   width: 25%; 
+}
+.escola{
+    background-image: linear-gradient(#546f9e,#98b7ec);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
