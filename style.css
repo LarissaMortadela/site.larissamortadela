@@ -1,7 +1,8 @@
 *{
     margin: 0;
-    padding: 0 ;
+    padding: 0;
 }
+
 body{
     font-family: "Poppins", sans-serif;
 }
@@ -12,7 +13,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 4px 0;
+    padding: 5px 0;
 }
 
 .cabeçalho-imagem{
@@ -33,12 +34,22 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px;
-   
+    padding: 25px;
 }
 .escola-div-conteudo{
     width: 35%;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+.imagem-estudante{
+    width: 120px;
+}
+.logo{
+    width: 22px;
+    padding: 5px;
+    align-items: center;
+}
+.estudante-div{
+    text-align: center;
 }
