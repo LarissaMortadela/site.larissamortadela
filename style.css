@@ -42,7 +42,7 @@ body{
 .escola-titulo{
     padding: 24px 0;
 }
-.imagem-estudante{
+.estudante-imagem{
     width: 120px;
 }
 .logo{
@@ -52,4 +52,20 @@ body{
 }
 .estudante-div{
     text-align: center;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;    
+}
+.rodapé{
+    background-color: black;
+    text-align: center;
+}
+.rodapé-imagem{
+    height: 65px;
 }
